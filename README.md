@@ -9,5 +9,5 @@ Modeling the map sections - April 3
 Adding connection points - April 4
 ![image](https://user-images.githubusercontent.com/54345350/161696220-09dc8ff6-edfb-499f-9592-8fdc135bb932.png)
 
-Course after Generation
+Non-intersecting course after Generation
 ![Screenshot 2022-12-24 185932](https://user-images.githubusercontent.com/54345350/215358924-02c4dd13-3534-4e83-83e4-66f3b0532e75.png)
