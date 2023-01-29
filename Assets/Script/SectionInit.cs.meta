@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d8d5dc2422c932478ab8a2b4291bcb1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - exitPoint: {instanceID: 0}
+  - golfGreen: {instanceID: 0}
+  - dirtMat: {fileID: 2100000, guid: 5cc4a8bbe061aba4d8acda8852619c46, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
