@@ -1,4 +1,5 @@
-# Random-Generate-map
+# 3D Course Generator
+This is a random 3D racecourse generator. The map avoids crashing into itself and continuously generates a random course until the size restraint is met or there is no way to continue generation of the course without crashing into itself.
 
 Modeling the map sections - April 3
 ![image](https://user-images.githubusercontent.com/54345350/161697753-a4c95175-a9f5-47e8-b4fa-790ecf025ad9.png)
